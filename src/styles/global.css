@@ -7194,8 +7194,8 @@ html.no-touch.no-reduced-motion .tile.tile-list[data-focus-method=key] .media--v
 
 .footer-main .copyright {
   color: var(--footer-pipe-color);
-  padding-top: 20px;
-  margin-top: 20px;
+  /* padding-top: 20px; */
+  /* margin-top: 20px; */
   font-size: 14px;
 }
 
